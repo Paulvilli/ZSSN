@@ -1,8 +1,8 @@
 <?php
   class db{
     private $dbHost ='localhost';
-    private $dbUser = 'root';
-    private $dbPass = 'XnKMtHz%6];Ws)(t';
+    private $dbUser = 'Your user';
+    private $dbPass = 'Your pass';
     private $dbName = 'ZSSN';
     //conección 
     public function conectDB(){
